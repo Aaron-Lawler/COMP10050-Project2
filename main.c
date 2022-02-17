@@ -1,6 +1,3 @@
-//Final othello project for Software Engineering (COMP10050) Project 2
-//Student Number: 20757091
-
 #include <stdio.h>
 #include <stdbool.h>
 #include <time.h>
